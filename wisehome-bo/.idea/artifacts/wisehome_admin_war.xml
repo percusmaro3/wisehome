@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wisehome-admin:war">
+    <output-path>$PROJECT_DIR$/../wisehome-admin/target</output-path>
+    <root id="archive" name="wisehome-admin.war">
+      <element id="artifact" artifact-name="wisehome-admin:war exploded" />
+    </root>
+  </artifact>
+</component>
